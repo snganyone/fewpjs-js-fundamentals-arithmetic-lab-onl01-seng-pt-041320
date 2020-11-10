@@ -7,6 +7,6 @@ let multiply = num1 * num2;
 
 let random = Math.random() + 1;
 
-let mod;
+let mod = Math.round(4);
 
 let max = Math.max(20);
